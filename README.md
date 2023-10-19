@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Acerca de mi: 
 
--🗒️ actualmente estudiando **☕Java, 🐍Python, 🗃️SQLSERVER, 🍃Spring**
+-🗒️ actualmente estudiando **☕Java, 🐍Python, PHP, 🍃Spring,Laravel** 
 
 -📎 me puedes encontrar en **rodrigo.chuque.48@hotmail.com**
 
