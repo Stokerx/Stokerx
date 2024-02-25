@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Acerca de mi: 
 
--🗒️ actualmente estudiando **☕Java, 🐍Python, PHP, 🍃Spring,Laravel** 
+-🗒️ actualmente estudiando **☕Java, 🐍Python, PHP, Javascript, Nestjs 🍃Spring,Laravel** 
 
 -📎 me puedes encontrar en **rodrigo.chuque.48@hotmail.com**
 
@@ -42,8 +42,9 @@ Here are some ideas to get you started:
      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title ="spring" alt="spring" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title ="git" alt="git" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title ="hud" alt="hub" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title ="sql" alt="sql" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title ="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
-       <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title ="intellj" alt="intellj" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title ="sql" alt="sql" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title ="Javascript" alt="javascript" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title ="intellj" alt="intellj" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title ="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-
+        <img src= "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title = "nodejs" alt= "nodejs" width="40" height="40"/>&nbsp;
+    
