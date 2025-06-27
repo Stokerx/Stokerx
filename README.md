@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 -📎 me puedes encontrar en **rodrigo.chuque.48@hotmail.com**
 
+- Portafolio en **https://stokerx.vercel.app/**
+
 - 📆estoy en constante aprendizaje 
 
 <div align = "left">
